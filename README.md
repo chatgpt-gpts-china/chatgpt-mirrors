@@ -10,7 +10,7 @@
 
 ## 什么是 ChatGPT镜像网站？
 
-**ChatGPT镜像网站**（ChatGPT Mirror）是指将原始官网的内容复制并放置在另一服务器上的网站服务，用户在国内无需翻墙也可以使用。
+[**ChatGPT镜像网站**](https://chat.yixiaai.com/)（ChatGPT Mirror）是指将原始官网的内容复制并放置在另一服务器上的网站服务，用户在国内无需翻墙也可以使用。
 
 与官网相比，**ChatGPT镜像网站**更适合国内用户：
 
@@ -23,7 +23,7 @@
 ## 国内推荐的 ChatGPT镜像网站
 
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4.0 以及 3.5，支持 MJ 绘画。
-- [https://chat.lify.vip/](https://www.yixiaai.com/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
+- [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 运营超过1年，支持 GPT4、4.0，支持AI绘画（Midjourney和Dall·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4.0，使用简单便捷。
 - [https://lanjing.ai/](https://lanjing.ai/) - 支持 GPT4、4.0，支持 MJ 绘画。
